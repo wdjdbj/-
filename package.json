@@ -49,7 +49,7 @@
     "mysql-co": "0.0.4",
     "named-regexp-groups": "^1.0.5",
     "nhentai-api": "^2.0.4",
-    "qs": "^6.9.2",
+    "qs": "^6.9.7",
     "querystring": "^0.2.0",
     "random-seed": "^0.3.0",
     "socks-proxy-agent": "^5.0.0",
